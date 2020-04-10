@@ -1,0 +1,12 @@
+.row {
+    width: 500px;
+    overflow: hidden;
+}
+
+.row > div {
+    float: left;
+}
+
+.fullName {
+    width: 200px;
+}
